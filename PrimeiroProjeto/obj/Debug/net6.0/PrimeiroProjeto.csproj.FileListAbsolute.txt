@@ -12,3 +12,4 @@ C:\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\refint\PrimeiroProj
 C:\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.pdb
 C:\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.genruntimeconfig.cache
 C:\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\ref\PrimeiroProjeto.dll
+C:\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.sourcelink.json
