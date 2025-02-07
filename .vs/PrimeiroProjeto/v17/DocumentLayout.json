@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5014E682-1A74-4E02-9A18-AB0D55EA7B3D}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\projetos\\primeiroprojeto\\primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5014E682-1A74-4E02-9A18-AB0D55EA7B3D}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014E682-1A74-4E02-9A18-AB0D55EA7B3D}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\projetos\\primeiroprojeto\\primeiroprojeto\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014E682-1A74-4E02-9A18-AB0D55EA7B3D}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +28,23 @@
               "RelativeDocumentMoniker": "PrimeiroProjeto\\Program.cs",
               "ToolTip": "C:\\projetos\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
               "RelativeToolTip": "PrimeiroProjeto\\Program.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAcwGoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAgwBgBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T12:24:44.025Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\projetos\\PrimeiroProjeto\\PrimeiroProjeto\\Triangulo.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjeto\\Triangulo.cs",
+              "ToolTip": "C:\\projetos\\PrimeiroProjeto\\PrimeiroProjeto\\Triangulo.cs",
+              "RelativeToolTip": "PrimeiroProjeto\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:35:47.674Z"
             }
           ]
         }
